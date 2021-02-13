@@ -1,5 +1,5 @@
 # Fashion-Image-Description-Using-AI
-Designed two models where the first one will take any fashion image URL and generate an AI based description and the second model will predict the Material, pattern and neckline attribute for the same image URL input.
+Designed model which will take any fashion image URL and generate an AI based description
 
 # Generate descriptions using AI:
 Performed Transfer learning using ResNet50 model to generate prediction array of the image.
